@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bautitobal" alt="bautitobal" /></a> </p>
 
-- 🌱 I’m currently learning SQL & Data Analytics **Coderhouse**
+- 🌱 I’m currently learning SQL & Data Analytics on **Coursera**
 
 - 👨‍💻 All of my projects are available at [https://bautitobal.github.io/mi-portfolio/](https://bautitobal.github.io/mi-portfolio/)
 
