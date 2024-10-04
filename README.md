@@ -1,29 +1,56 @@
-<h1 align="center">Hi 👋, I'm Bautista Tobal</h1>
-<h3 align="center">A passionate frontend and python developer from Argentina</h3>
+<h1 align="center">Heya 👋, I'm Bautista Tobal</h1>
+<h3 align="center">A Computer Engineer Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bautitobal&label=Profile%20views&color=0e75b6&style=flat" alt="bautitobal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bautitobal" alt="bautitobal" /></a> </p>
-
-- 🌱 I’m currently learning SQL & Data Analytics on **Coursera**
-
+## 🚀 What I Do:
+- 🔧 I build personal productivity systems using methodologies like **PARA**, **GTD** (Getting Things Done), and **Zettelkasten**.
+- 💻 Currently developing projects in **Node.js**, **Python**, and **C**.
+- 💬 I'm learning **English** to take the **First Certificate**, and **German** as a new personal challenge 😃.
 - 👨‍💻 All of my projects are available at [https://bautitobal.github.io/mi-portfolio/](https://bautitobal.github.io/mi-portfolio/)
 
-- 💬 Ask me about **HTML, CSS & Python**
+## 💡 Areas of Interest:
+- **Software Development**: Web, desktop, and mobile app creation.
+- **Personal Growth**: Stoicism, journaling, and habit tracking.
+- **Data Science**: Learning how to extract insights and create predictive models.
+- **Financial Management**: Managing personal budgets, investments.
 
-- 📫 How to reach me **bautitobal11@gmail.com**
+## 🌱 I'm currently learning:
+- **Advanced C programming** (working through loops and data types).
+- **Automation with Python**: Creating scripts to enhance productivity.
+- **Node.js**: as a backend technology.
+- **Languages**: **German** from scratch, improving **English** for FCE.
 
-- ⚡ Fun fact **I also have a video editing skill**
+## 🎯 My Goals:
+- Become proficient in **full-stack development**.
+- Achieve a **solid foundation** in **data science**.
+- Earn my **First Certificate in English**.
+- Continue improving my **personal productivity system** and help others do the same.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/bautitobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bautitobal" height="30" width="40" /></a>
-<a href="https://twitter.com/bautitobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bautitobal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bautistatobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bautista-tobal-b25a4a237" height="30" width="40" /></a>
-<a href="https://instagram.com/bautitobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bautitobal" height="30" width="40" /></a>
-<a href="https://www.behance.net/bautitobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bautitobal" height="30" width="40" /></a>
-<a href="https://medium.com/@bautitobal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bautitobal" height="30" width="40" /></a>
-</p>
+---
+📫 How to reach me **bautitobal11@gmail.com** or through my socials too!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+Feel free to check out my repositories and projects! I'm always open to collaborating and learning from others!! 🚀
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bautistatobal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bautitobal) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/bautitobal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bautitobal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bautitobal)  
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+# 📊 GitHub Stats:
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bautitobal&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=bautitobal&theme=dark&hide_border=false"><br/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bautitobal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bautitobal&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=bautitobal&icon=2&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can support me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bautitobal) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bautitobal) 
+
+
