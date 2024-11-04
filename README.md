@@ -1,5 +1,5 @@
 <h1 align="center">Heya 👋, I'm Bautista Tobal</h1>
-<h3 align="center">A Computer Engineer Student</h3>
+<h3 align="center">A Computer Engineering Student</h3>
 
 
 ## 🚀 What I Do:
