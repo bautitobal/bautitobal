@@ -4,7 +4,7 @@
 
 ## 🚀 What I Do:
 - 🔧 I build personal productivity systems using methodologies like **PARA**, **GTD** (Getting Things Done), and **Zettelkasten**.
-- 💻 Currently developing projects in **Kotlin**, **Lua**, and **JavaScript**.
+- 💻 Currently developing projects in **Go**, **Kotlin**, **Lua**, and **JavaScript**.
 - 💬 I'm learning **English** to take the **First Certificate**, and **German** as a new personal challenge 😃.
 - 👨‍💻 All of my projects are available at [https://bautitobal.netlify.app/](https://bautitobal.netlify.app/)
 - [CV styled website](https://bautitobal-cv.netlify.app)
